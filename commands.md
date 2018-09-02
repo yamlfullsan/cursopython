@@ -1,5 +1,7 @@
 <h1>Comandos para GIT
+
 <h2>Subir código.
+
 
 1.-Iniciar GIT. \
 $ git init
