@@ -20,3 +20,6 @@ $ git remote rm origin
 
 6.-Subimos código. \
 $ git push -u origin master
+
+7.-Modificación en GitHub --> llevarla a directorio local.
+$ git pull origin master
