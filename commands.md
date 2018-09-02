@@ -1,17 +1,20 @@
-1.-Iniciar GIT.
-git init
+<h1>Comandos para GIT
+<h2>Subir código.
 
-2.-Añadir archivos, "." todos o nombre de archivo en directorio.
-git add .
+1.-Iniciar GIT. \
+$ git init
 
-3.-Hacer cambion, se agrega comentario de cambio.
-git commit -m 'esto es un comentario'
+2.-Añadir archivos, "." todos o nombre de archivo en directorio. \
+$ git add .
 
-4.-Conectarse a repositorio.
-git remote add origin https://github.com/yamlfullsan/cursopython.git
+3.-Hacer cambion, se agrega comentario de cambio. \
+$ git commit -m 'esto es un comentario'
 
-5.-Si hay error --> fatal: remote origin already exists -- tecleamos lo siguiente y repetimos paso anterior.
-git remote rm origin
+4.-Conectarse a repositorio. \
+$ git remote add origin https://github.com/yamlfullsan/cursopython.git
 
-6.-Subimos código.
-git push -u origin master
+5.-Si hay error --> fatal: remote origin already exists -- tecleamos lo siguiente y repetimos paso anterior. \
+$ git remote rm origin
+
+6.-Subimos código. \
+$ git push -u origin master
