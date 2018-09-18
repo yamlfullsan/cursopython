@@ -1,3 +1,4 @@
+#comparativa
 numero=int(input("Introduce un numero: "))
 
 mayor=100
